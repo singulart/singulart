@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF626&background=FF993E00&random=false&width=435&lines=Hello%2C+world!+I'm+Lex+(not+to+be+confused+with+Lex+Fridman!)%2C+and+this+Github+shows+some+of+my+open+source+projects+in+Java%2C+Python+and+Typescript.+)](https://git.io/typing-svg)
+
+Hello, world! I'm Lex (not to be confused with Lex Fridman!), and this Github shows some of my open source projects in Java, Python and Typescript. 
