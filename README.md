@@ -1,18 +1,23 @@
 
 `Hello, world!` I'm Lex (not to be confused with Lex Fridman!), and this Github shows some of my open source projects in AWS, Java, Python and Typescript. 
 
-# How to get in touch with me
+# Consulting I do when I'm not busy with Argorand 
 
-## Tox messenger
+* Web and mobile cloud-native microservice and serverless architectures (AWS)
+* Cloud solutions cost reduction
+* External API providers and COTS systems integration using Apache Camel
+* Data pipelines, ETLs, ELTs
+* Bespoke technology assessments
 
-TOX ID: `A9BABF05A0CE34F6B0812C999BA3F0487DD16F620AA2019A74E525EE026237362427C1A9ED2E`
+# My Background
 
+* Amazon Web Services: pretty much any Tier 1 service
+* Industry-standard enterprise Java stack: Spring Boot, Hibernate, Apache Camel
+* Experience with Celery, Apache Kafka, ElasticSearch, Redis
+* Exposure to front-end stack and paradigms: Angular, React, micro-frontends, SPAs
+* Data stores: PostgreSQL, MySQL, MongoDB
+* Standards and protocols: OpenAPI, REST, Json RPC, GraphQL, Mambu, Akoya, FedNow®
 
-## Signal app
+# Get in touch
 
-[Signal me](https://signal.me/#eu/r6bh-rReqBjuOdQnz4dXB-3z2QUaP0HJ1luB6jp2Gqdo2byDIHNFY7LCA3zp36Hl)
-
-## ICQ 
-
-Like in good old days..
-
+hello@argorand.io
